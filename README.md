@@ -1,5 +1,6 @@
 # Airbnb Istanbul Data Analysis
-Go to blogpost:
+[>>Go to blogpost:](https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac)
+
 ![alt text](figures/medium_blogpost_snapshot.PNG)
 
 ## Table of contents

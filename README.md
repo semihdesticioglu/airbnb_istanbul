@@ -26,9 +26,8 @@ To be able to run it properly, these libraries should be installed:
 >5. Matplotlib
 >6. Geopy
 >7. Folium
->8. Geopy
->9. Nltk
->10. Wordcloud
+>8. Nltk
+>9. Wordcloud
 
 
 ## About the Project

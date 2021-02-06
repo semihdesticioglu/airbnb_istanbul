@@ -45,20 +45,24 @@ This project is created as a part of Udacity Data Scientist Nanodegree Program.
 Airbnb Istanbul/
 ├── airbnb_istanbul_explaratory_data_analyis.ipynb
 └── data/
-    ├── calendar.csv
-    ├──	listings.csv
+    ├──	airbnb_istanbul.csv
     └── reviews.csv
-└── visuals/
-    ├── calendar.png
-    ├──	listings.png
-    └── reviews.png
+└── figures/
+    ├── wordcloud.png
+    ├──	heatmap.png
+    └── price_ranges_map.png
+    └── medium_blogpost_snapshot.png    
+├── Licence
+├── Readme
 ```
 
 - airbnb_istanbul_explaratory_data_analyis.ipynb - Explaratory Data Analysis Notebook for Airbnb Istanbul Data.
-- data/listings.csv - Listing information of accommodations in Istanbul.
+- data/airbnb_istanbul.csv - Listing information of accommodations in Istanbul.
 - data/reviews.csv  - Reviews information of accommodations in Istanbul.
-- visuals/listings.csv - Listing information of accommodations in Istanbul.
-- visuals/reviews.csv  - Reviews information of accommodations in Istanbul.
+- figures/wordcloud.png - Wordcloud image for listing descriptions.
+- figures/heatmap.png  - Heatmap for listings.
+- figures/price_ranges_map.png - Scatter plot on map with price range categories.
+- figures/medium_blogpost_snapshot.png  - Snapshot from Medium blogpost.
 
 ## Results
 * Beyoglu , Sisli, Fatih, Kadikoy and Besiktas have most listing counts, these districts cover 71% of all listings.

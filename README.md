@@ -1,4 +1,6 @@
 # Airbnb Istanbul Data Analysis
+Go to blogpost:
+![alt text](figures/medium_blogpost_snapshot.PNG)
 
 ## Table of contents
 - [Data Source](#data-source)
@@ -70,3 +72,6 @@ Besiktas, Beyoglu, Sisli, Fatih and Kadikoy are evaluated with ANOVA test accord
 * Distances to 8 most touristic places are calculated and minimum value is used for minimum distance feature. Correlation test show no direct correlation. If we assign categories to the locations according to their minimum distance, we can infer that at least one group’s price mean is different than others. Box-plot tells us as the distance to touristic areas increases, mean price decreases.
 
 ## Example Visuals from Project 
+![alt text](figures/wordcloud.PNG)
+![alt text](figures/heatmap.PNG)
+![alt text](figures/price_ranges_map.PNG)

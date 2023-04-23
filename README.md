@@ -1,5 +1,12 @@
 # Airbnb Istanbul Data Analysis
 [>>Click and Go to blogpost on Medium](https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac)
+## About the Project
+In this project, I tried to analyze Airbnb Istanbul data and answer some questions about the data.
+
+Project's scope is explaratory data analysis with visuals and maps, applying statistical test to data to answer the questiones correctly.
+
+All the analyses are can be found on Medium Post : https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac
+
 
 ![alt text](figures/medium_blogpost_snapshot.PNG)
 
@@ -29,15 +36,6 @@ To be able to run it properly, these libraries should be installed:
 >8. Nltk
 >9. Wordcloud
 
-
-## About the Project
-In this project, I tried to analyze Airbnb Istanbul data and answer some questions about the data.
-
-Project's scope is explaratory data analysis with visuals and maps, applying statistical test to data to answer the questiones correctly.
-
-All the analyses are can be found on Medium Post : https://semihdesticioglu.medium.com/airbnb-istanbul-data-analysis-40f52e781dac
-
-This project is created as a part of Udacity Data Scientist Nanodegree Program.
 
 ## File descriptions
 
